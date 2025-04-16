@@ -32,6 +32,3 @@ Analytical and detail-oriented aspiring Data Analyst with a strong foundation in
 
 <a href="http://www.github.com/SupriyaSKamble"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SupriyaSKamble&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"></div><br /><br /><br /><br /><br /><br /><br />
