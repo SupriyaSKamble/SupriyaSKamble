@@ -6,7 +6,8 @@ Data Analyst
 
 Analytical and detail-oriented aspiring Data Analyst with a strong foundation in statistics, data visualization, and SQL. Proficient in Python, Excel, and tools like Tableau and Power BI. Passionate about transforming raw data into actionable insights to support decision-making.
 
-* 🌍  I'm based in Dartford Contact me at [supriyaskamble@gmail.com](mailto:supriyaskamble@gmail.com)
+* 🌍  I am based in Dartford.
+* You can contact me at [supriyaskamble@gmail.com](mailto:supriyaskamble@gmail.com)
 
 ### Skills
 
